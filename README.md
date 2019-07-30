@@ -1,2 +1,2 @@
-# eeg-signal-processing
-An ongoing side project for analyzing EEGs using DSP.
+# Applied Topology
+A repositiory of references on applied topology and persistent homology.
